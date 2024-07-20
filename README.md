@@ -7,11 +7,14 @@ Add Expenses: Easily add new expenses with details such as amount, date, and cat
 View Transactions: View a list of all transactions with filters for date and category.
 Expense Categories: Organize expenses into predefined categories.
 # Installation
-To install and run this project locally, follow these steps:
-
-Clone the repository:<br>
-git clone https://github.com/An12iket/Expense-Tracker.git <br>
+To install and run this project locally, follow these steps:<br>
+### Clone the repository:
+```
+git clone https://github.com/An12iket/Expense-Tracker.git
+```
+```
 cd Expense-Tracker
+```
 # Technologies
 Frontend:
 
@@ -24,11 +27,20 @@ Contributions are welcome! If you have suggestions for improvements or find any 
 
 Fork the repository <br>
 
-Create a new branch (git checkout -b feature/YourFeature) <br>
+Create a new branch 
+```
+git checkout -b feature/YourFeature
+```
 
-Commit your changes (git commit -m 'Add some feature') <br>
+Commit your changes 
+```
+git commit -m 'Add some feature'
+```
 
-Push to the branch (git push origin feature/YourFeature) <br>
+Push to the branch 
+```
+git push origin feature/YourFeature)
+```
 
 Open a pull request
 
